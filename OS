@@ -1,0 +1,4 @@
+# OS
+
+OS: GNU/Linux UBUNTU Server 24.04.3 LTS
+Reasons: Because it is a very good and efficient OS for this type of work.
